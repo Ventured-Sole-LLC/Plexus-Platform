@@ -1,0 +1,9 @@
+﻿.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+kubeconfig
+*.kubeconfig
+.kube/
+charts/*/charts/
+*.tgz
